@@ -57,7 +57,10 @@ Thumbs.db
 # CoppeliaSim specific (keep the scene file)
 # *.ttt (commented out to keep new_env.ttt)
 
-# Video files (uncomment if you want to exclude large video files)
-# *.mp4
-# *.avi
-# *.mov
+# Video files (too large for GitHub - use Git LFS if needed)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv

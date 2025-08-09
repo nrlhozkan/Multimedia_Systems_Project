@@ -39,7 +39,9 @@ This project demonstrates the integration of simulation, multimedia processing, 
 
 See the system in action! The following video demonstrates the complete functionality:
 
-📹 **[System Demo Video](./demo_video.mp4)** - Shows live voice control, video streaming, and drone movement
+📹 **Demo Video Available Locally** - `demo_video.mp4` (not included in GitHub due to file size limits)
+
+> **Note:** The demo video file is available in the local project directory but excluded from GitHub due to the 100MB file size limit. For GitHub hosting of large files, consider using Git LFS (Large File Storage).
 
 ### What you'll see in the demo:
 - ✅ **Voice Command Recognition** - Real-time speech-to-text processing
