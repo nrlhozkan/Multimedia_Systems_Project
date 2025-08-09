@@ -39,9 +39,10 @@ This project demonstrates the integration of simulation, multimedia processing, 
 
 See the system in action! The following video demonstrates the complete functionality:
 
-📹 **[Live System Demo](./example_video.mp4)** - Complete demonstration of voice control, video streaming, and drone movement
-
-> **Click to watch:** This video shows the real-time operation of the multimedia drone control system with actual voice commands and live camera feed.
+<video width="800" controls>
+  <source src="./example_video.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="./example_video.mp4">Download the video</a>
+</video>
 
 ### What you'll see in the demo:
 - ✅ **Voice Command Recognition** - Real-time speech-to-text processing
