@@ -39,16 +39,17 @@ This project demonstrates the integration of simulation, multimedia processing, 
 
 See the system in action! The following video demonstrates the complete functionality:
 
-📹 **Demo Video Available Locally** - `demo_video.mp4` (not included in GitHub due to file size limits)
+📹 **[Live System Demo](./example_video.mp4)** - Complete demonstration of voice control, video streaming, and drone movement
 
-> **Note:** The demo video file is available in the local project directory but excluded from GitHub due to the 100MB file size limit. For GitHub hosting of large files, consider using Git LFS (Large File Storage).
+> **Click to watch:** This video shows the real-time operation of the multimedia drone control system with actual voice commands and live camera feed.
 
 ### What you'll see in the demo:
 - ✅ **Voice Command Recognition** - Real-time speech-to-text processing
-- ✅ **Drone Movement Control** - Responsive takeoff, landing, and directional commands
+- ✅ **Drone Movement Control** - Responsive takeoff, landing, and directional commands  
 - ✅ **Live Video Streaming** - Real-time camera feed from drone perspective
 - ✅ **Web Interface** - Professional dashboard with status indicators
 - ✅ **Multi-threading** - Simultaneous voice processing and video streaming
+- ✅ **CoppeliaSim Integration** - Full simulation environment interaction
 
 > **Note:** Make sure to have audio enabled to hear the voice commands being recognized in real-time!
 

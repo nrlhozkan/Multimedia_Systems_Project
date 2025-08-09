@@ -64,3 +64,6 @@ Thumbs.db
 *.mkv
 *.wmv
 *.flv
+
+# Exception: Allow smaller example video
+!example_video.mp4
