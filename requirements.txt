@@ -1,0 +1,30 @@
+# Multimedia Drone Control System - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core simulation and API
+coppeliasim-zmqremoteapi-client>=1.0.0    # CoppeliaSim remote API client
+numpy>=1.21.0                             # Numerical computing
+
+# Computer vision and image processing
+opencv-python>=4.5.0                     # Computer vision library
+
+# Web framework and real-time communication
+Flask>=2.0.0                             # Web application framework
+Flask-SocketIO>=5.0.0                    # WebSocket support for real-time communication
+
+# Voice recognition and audio processing
+SpeechRecognition>=3.8.0                 # Speech-to-text library
+pyaudio>=0.2.11                          # Audio I/O (required for microphone input)
+
+# Optional: Enhanced audio processing (uncomment if needed)
+# pydub>=0.25.0                          # Audio manipulation
+# python-vlc>=3.0.0                      # VLC media player bindings
+
+# Development and testing tools (optional)
+# pytest>=6.0.0                          # Testing framework
+# black>=21.0.0                          # Code formatter
+# pylint>=2.8.0                          # Code linter
+
+# Documentation tools (optional)
+# sphinx>=4.0.0                          # Documentation generator
+# sphinx-rtd-theme>=0.5.0                # ReadTheDocs theme
