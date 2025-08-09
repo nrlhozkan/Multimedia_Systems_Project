@@ -44,7 +44,9 @@ See the system in action! The following video demonstrates the complete function
   Your browser does not support the video tag. <a href="./example_video.mp4">Download the video</a>
 </video>
 
-### What you'll see in the demo:
+*If the video doesn't play above, [click here to watch](./example_video.mp4)*
+
+### 🎬 **Live System Demo Features:**
 - ✅ **Voice Command Recognition** - Real-time speech-to-text processing
 - ✅ **Drone Movement Control** - Responsive takeoff, landing, and directional commands  
 - ✅ **Live Video Streaming** - Real-time camera feed from drone perspective
@@ -52,7 +54,7 @@ See the system in action! The following video demonstrates the complete function
 - ✅ **Multi-threading** - Simultaneous voice processing and video streaming
 - ✅ **CoppeliaSim Integration** - Full simulation environment interaction
 
-> **Note:** Make sure to have audio enabled to hear the voice commands being recognized in real-time!
+> **🔊 Audio Required:** Make sure to have audio enabled to hear the voice commands being recognized in real-time!
 
 ## 📋 Requirements
 
